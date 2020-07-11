@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">ProjectDatMonAn</string>
+    <string name="app_name">ProjectDatMonAnOnline</string>
+    <string name="login_text">Đăng nhập</string>
+    <string name="user_input_hint">Số điện thoại</string>
+    <string name="pass_input_hint">Mật khẩu</string>
+    <string name="registry_question">Bạn chưa có tài khoản?</string>
+    <string name="registry_link">Đăng ký ngay</string>
+    <string name="registry_label">Đăng ký tài khoản</string>
+    <string name="registry_cancel">Bạn đã có tài khoản?</string>
+    <string name="registry_return">Đăng nhập ngay</string>
+    <string name="registry_btn">Đăng ký</string>
+    <string name="registry_name">Họ tên*</string>
+    <string name="registry_phone">Số điện thoại*</string>
+    <string name="registry_gender">Giới tính</string>
+    <string name="registry_address">Địa chỉ*</string>
+    <string name="registry_password">Mật khẩu*</string>
+    <string name="registry_confirm_pass">Xác nhận mật khẩu</string>
+
+    <string-array name="spn_gender">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
 </resources>
